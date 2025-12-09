@@ -1,0 +1,6 @@
+@NailsByAngel_HostAddress = http://localhost:5153
+
+GET {{NailsByAngel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
