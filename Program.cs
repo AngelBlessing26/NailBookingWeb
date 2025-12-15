@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+using NailBookingAPI.Data;
+
+>>>>>>> 2d6c4596fc870ee459f9d9a5884c4d19dd4ca718
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

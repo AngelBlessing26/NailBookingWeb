@@ -1,0 +1,6 @@
+@NailBookingAPI_HostAddress = http://localhost:5208
+
+GET {{NailBookingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
